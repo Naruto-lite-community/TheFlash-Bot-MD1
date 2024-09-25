@@ -67,11 +67,9 @@
 
 
 
-### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
-> **Note** Descargué y Descomprime
-### [`GataBot-MD ~ Archivos`](https://github.com/GataNina-Li/GataBot-MD/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/Termux-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/UcWlyQ8u5HE)
+### 📁 طريقة رفع البوت عبر تيرموكس 🙌
+### 📁 Cómo subir el bot vía Termux 🙌
+### [`FlashBot-MD ~ Archivos`](https://github.com/Naruto-lite-community/TheFlash-Bot-MD1)
 ```bash
 termux-setup-storage
 ```
