@@ -69,7 +69,7 @@
 
 ### 📁 طريقة رفع البوت عبر تيرموكس 🙌
 ### 📁 Cómo subir el bot vía Termux 🙌
-### [`FlashBot-MD ~ Archivos`](https://github.com/Naruto-lite-community/TheFlash-Bot-MD1)
+### [`FlashBot-MD ~ فريق الدعم - equipo de soporte`](yto941395@gmail.com)
 ```bash
 termux-setup-storage
 ```
