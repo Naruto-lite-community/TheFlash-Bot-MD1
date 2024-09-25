@@ -77,7 +77,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-cd storage/downloads/GataBot-MD-master/GataBot-MD-master 
+cd storage/downloads/TheFlash-Bot-MD1-master/TheFlash-Bot-MD1-master 
 ```
 ```bash
 yarn install
