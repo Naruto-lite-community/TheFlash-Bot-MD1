@@ -69,7 +69,7 @@
 
 ### 📁 طريقة رفع البوت عبر تيرموكس 🙌
 ### 📁 Cómo subir el bot vía Termux 🙌
-### [`FlashBot-MD ~ فريق الدعم - equipo de soporte`](yto941395@gmail.com)
+### [`FlashBot-MD ~ فريق الدعم - equipo de soporte`](https://api.whatsapp.com/send/?phone=972546887176&text=/estado&type=phone_number&app_absent=0)
 ```bash
 termux-setup-storage
 ```
