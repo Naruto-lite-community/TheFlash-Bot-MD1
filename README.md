@@ -67,9 +67,26 @@
 
 
 
-#### `▢ لي نشر في هيروكو`
-
-#### `▢ Publicado en Heroku`
-*مستخدمي هيروكو*
-
-[![نشر في هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Botmego/MegoBot-MD1)
+### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
+> **Note** Descargué y Descomprime
+### [`GataBot-MD ~ Archivos`](https://github.com/GataNina-Li/GataBot-MD/archive/refs/heads/master.zip)
+[![blog](https://img.shields.io/badge/Termux-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://youtu.be/UcWlyQ8u5HE)
+```bash
+termux-setup-storage
+```
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+```bash
+cd storage/downloads/GataBot-MD-master/GataBot-MD-master 
+```
+```bash
+yarn install
+```
+```bash
+npm install
+```
+```bash
+npm start
+```
