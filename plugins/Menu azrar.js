@@ -125,10 +125,6 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                     ]
                                 }),
                   messageParamsJson: ''
-                },
-                {
-              name: "quick_reply",
-              buttonParamsJson: '{"display_text":"⌈✅╎المطورين╎✅⌋","id":".المطور"}'
                      },
                      {
                name: "cta_url",
