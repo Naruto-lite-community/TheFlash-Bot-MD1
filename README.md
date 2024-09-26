@@ -34,7 +34,7 @@
 
  <a href="https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(AR)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(ES)_-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > [ 📌 ] لا يُسمح بالبوتات الاخري في مجموعات الدعم.
 
