@@ -20,7 +20,7 @@ conn.sendFile(m.chat, yt_play[0].thumbnail, 'thumbnail.jpg', `
 *⏰ المدة:* ${secondString(yt_play[0].duration.seconds)}
 *👉🏻 انتظر لحظة حتى أرسل ${additionalText}*
 *انت مسؤل عن ذنوب اغانيك*
-*𝐍𝐀𝐑𝐔𝐓𝐎&𝐙𝐀𝐂𝐊*
+*𝘽𝙊𝙏𝙈𝘼𝙉𝘿𝙊*
 `.trim(), m)
 if (command == 'اغنية') {	
 try {
