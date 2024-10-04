@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["972546887176", '👑 Flash - Zack 👑', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["201224563219", '💫 Flash - Naruto 💫', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["201144987551", '𝘽𝙊𝙏- 𝙈𝘼𝙉𝘿𝙊', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["20114498751", '𝘽𝙊𝙏 -𝙈𝘼𝙉𝘿𝙊', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
 ]
 
 
@@ -117,9 +117,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["972546887176", '👑 Flash - Zack 👑', 1], 
-["20124563219", '💫 Flash - Naruto 💫', 1],  
-["972546887176", '👑 Flash - Zack 👑', 1]]
+["201144987551", '𝘽𝙊𝙏- 𝙈𝘼𝙉𝘿𝙊', 1], 
+["201144957551", '𝘽𝙊𝙏 - 𝙈𝘼𝙉𝘿𝙊', 1],  
+["201144987551", '𝘽𝙊𝙏- 𝙈𝘼𝙉𝘿𝙊', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -127,8 +127,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `𝐅𝐋𝐀𝐒𝐇﹝⚡️﹞𝐁𝐎𝐓` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = `Naruto & Zack` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `𝘽𝙊𝙏 𝙈𝘼𝙉𝘿𝙊` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
+global.author = `𝘽𝙊𝙏 & 𝙈𝘼𝙉𝘿𝙊` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -164,9 +164,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝐅𝐋𝐀𝐒𝐇﹝⚡️﹞𝐁𝐎𝐓"
-global.igfg = "Naruto & Zack"
-global.nomorown = "972546887176"
+global.wm = "𝘽𝙊𝙏 𝙈𝘼𝙉𝘿𝙊"
+global.igfg = "𝘽𝙊𝙏 & 𝙈𝘼𝙉𝘿𝙊"
+global.nomorown = "201144987551"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
