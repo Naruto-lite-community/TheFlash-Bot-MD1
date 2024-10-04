@@ -19,11 +19,11 @@ await conn.sendMessage(m.chat, { react: { text: '🥺', key: m.key } })
      conn.reply(m.chat, `*تــدوم يــاض 😂*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 }
     if (/^كسمك$/i.test(m.text) ) { //sem prefixo 
-     conn.reply(m.chat, `*عــيــب يــاض 🗿😭*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+     conn.reply(m.chat, `*امــــريـــكا ســـابت العراق وناكت امك*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 await conn.sendMessage(m.chat, { react: { text: '🗿', key: m.key } })
 }
 
- if (/^يابوت|بوت$/i.test(m.text) ) { //sem prefixo 
+ if (/^يابوت|يابوت$/i.test(m.text) ) { //sem prefixo 
      conn.reply(m.chat, `*اقلب البوت وعيون البوت*`, m) //wm, null, [['Menu', '#menu']], m) botones :V 
 await conn.sendMessage(m.chat, { react: { text: '🗿', key: m.key } })
  } 
