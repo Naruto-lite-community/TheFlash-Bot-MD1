@@ -7,11 +7,11 @@ let handler = async (m, { conn, text }) => {
     if (!txt) throw '✳️ قم بإدخال الكمية المراد إضافتها من *الدولارات*'
     if (isNaN(txt)) throw '🔢 فقط الأرقام مسموح بها'
     let dmt = parseInt(txt)
-    let diamond = dmt
+    let exp = dmt
 
-    if (diamond < 1) throw '✳️ الحد الأدنى *1*'
+    if (exp < 1) throw '✳️ الحد الأدنى *1*'
     let users = global.db.data.users
-    users[who].dollar += dmt
+    users[who].exp += dmt
 
     await m.reply(`≡ *تمت الإضافة بنجاح*
 ┌──────────────
@@ -22,7 +22,7 @@ let handler = async (m, { conn, text }) => {
 
 handler.help = ['addgold <@مستخدم>']
 handler.tags = ['اقتصاد']
-handler.command = ['دولار+'] 
+handler.command = ['دولار'] 
 handler.rowner = true
 
 export default handler
