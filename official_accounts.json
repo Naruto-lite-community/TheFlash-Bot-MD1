@@ -14,24 +14,24 @@
 "all": "https://www.atom.bio/GataBot"
 },
 "channels": {
-"channel1": "https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A",
-"channel2": "https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g",
-"channel3": "https://whatsapp.com/channel/0029VaKn22pDJ6GwY61Ftn15",
+"channel1": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"channel2": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"channel3": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
 "channel4": "https://t.me/globalgb"
 },
 "groups": {
-"group1": "https://chat.whatsapp.com/KNwcGS4PCEN5qjbHD5VDZM",
-"group2": "https://chat.whatsapp.com/LfcjmLcYax431QXBO0CSPk",
-"group3": "https://chat.whatsapp.com/IZSDBt8ZxWgCp9lcaV8GU5",
-"group4": "https://chat.whatsapp.com/GDORy2LCnLh8BopOAr2l4n",
-"group5": "https://chat.whatsapp.com/IIxG8Wwv1df4scsrI9OJOH",
+"group1": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group2": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group3": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group4": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group5": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
 "group6": "https://t.me/supergatabot"
 },
 "collaboration": {
-"group1": "https://chat.whatsapp.com/B5s3ohjEGofH5YDD05jAV5",
-"group2": "https://chat.whatsapp.com/IO5k0UOF7hOJHE1eH3Fcxh",
-"group3": "https://chat.whatsapp.com/H1TEBeMtFVv3RcayD1WfGU",
-"group4": "https://chat.whatsapp.com/GFsgXW2VD4I4FEOSlEg9wp"
+"group1": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group2": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group3": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group4": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U"
 },
 "sponsors": {
 "boxmine": "https://boxmineworld.com",
@@ -42,7 +42,7 @@
 "others": {
 "assistance_num": "https://wa.me/message/MEKOUFBEOG5ED1",
 "yt_vid": "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s",
-"group_support": "https://chat.whatsapp.com/BpoXxhKl33C9EI4v4mWDHh"
+"group_support": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U"
 }
 }
 }
