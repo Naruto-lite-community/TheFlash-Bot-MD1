@@ -3,7 +3,7 @@ let handler = m => m
  let chat = global.db.data.chats[m.chat] 
   
  if (/^احا$/i.test(m.text) ) { //sem prefixo 
-     conn.reply(m.chat,`*احــم احــم 😳*`, m) //wm, null, [['Menu', '#menu']], m) botones :V 
+     conn.reply(m.chat,`*احــتين تلاته اربعه*`, m) //wm, null, [['Menu', '#menu']], m) botones :V 
 await conn.sendMessage(m.chat, { react: { text: '🐧', key: m.key } })
   }
 
@@ -19,12 +19,12 @@ await conn.sendMessage(m.chat, { react: { text: '🥺', key: m.key } })
      conn.reply(m.chat, `*تــدوم يــاض 😂*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 }
     if (/^كسمك$/i.test(m.text) ) { //sem prefixo 
-     conn.reply(m.chat, `*عــيــب يــاض 🗿😭*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+     conn.reply(m.chat, `*امــــريـــكا ســـابت العراق وناكت امك*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 await conn.sendMessage(m.chat, { react: { text: '🗿', key: m.key } })
 }
 
- if (/^يابوت|يا بوت$/i.test(m.text) ) { //sem prefixo 
-     conn.reply(m.chat, `*هممممم وش في انت كمان 🗿*`, m) //wm, null, [['Menu', '#menu']], m) botones :V 
+ if (/^يابوت|يابوت$/i.test(m.text) ) { //sem prefixo 
+     conn.reply(m.chat, `*اقلب البوت وعيون البوت*`, m) //wm, null, [['Menu', '#menu']], m) botones :V 
 await conn.sendMessage(m.chat, { react: { text: '🗿', key: m.key } })
  } 
 
@@ -33,12 +33,12 @@ await conn.sendMessage(m.chat, { react: { text: '🗿', key: m.key } })
 await conn.sendMessage(m.chat, { react: { text: '😂', key: m.key } })
    }
 
-   if (/^بوت خرا|بوت زفت|خرا عليك$/i.test(m.text) ) { //sem prefixo
-     conn.reply(m.chat,'  *دزهــا يــاض 😂🗿*',m) //wm, null, [['Menu','#menu']], m) botones :v
+   if (/^كسم البوت |بوت زفت|خرا عليك$/i.test(m.text) ) { //sem prefixo
+     conn.reply(m.chat,'  *كسمين تلاته كسمك متشتمش البوت*',m) //wm, null, [['Menu','#menu']], m) botones :v
 
    }
  if (/^بحبك|احبك$/i.test(m.text) ) { //sem prefixo 
-     conn.reply(m.chat, `*وانـا كـمـان 😂❤️*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+     conn.reply(m.chat, `*لو بنت بحبك اكتر لو ولد خف علوقية👽*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
  } 
 
@@ -60,7 +60,7 @@ await conn.sendMessage(m.chat, { react: { text: '😂', key: m.key } })
  } 
   
  if (/^تست$/i.test(m.text) ) { //sem prefixo 
-     conn.reply(m.chat, `*شــغــالــة يــا روحــي 🥰❤️*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+     conn.reply(m.chat, `*اعععع شغال يعمري*`, m) //wm, null, [['Menu', '#menu']], m) botones :V
   
  } 
   

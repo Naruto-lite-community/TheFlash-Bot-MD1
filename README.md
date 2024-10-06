@@ -10,11 +10,11 @@
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
 
-# `Flash-Bot` 
+# `𝘽𝙊𝙏_𝙈𝘼𝙉𝘿𝙊` 
 
 # `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة عــراب زاك و نــاروتــو` 
 <p align="center">
-<img src="https://envs.sh/06H.jpg" alt="⁨عــراب زاك⁩" width="900"/>
+<img src="https://envs.sh/06H.jpg" alt="⁨ماندو " width="900"/>
 </p>
 
 ------------------
@@ -45,16 +45,16 @@
 ### `▢ Números oficiales de desarrolladores (activos)`
 
 
-<a href="https://api.whatsapp.com/send/?phone=972546887176&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Owner_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/BjcCLJokpdEEc4i0a0mnNR" target="blank"><img src="https://img.shields.io/badge/Owner_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://api.whatsapp.com/send/?phone=201224563219&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Owner_Bot2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=201224563219&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://chat.whatsapp.com/BjcCLJokpdEEc4i0a0mnNR" />
 
 ### `▢يوتيوب المطور الرسمي (نشط)`
 
 ### `▢ Desarrollador oficial de YouTube (activo)`
 
-<a href="https://www.youtube.com/@Zack_247">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+<a href="https://chat.whatsapp.com/BjcCLJokpdEEc4i0a0mnNR">
+<img src="https://chat.whatsapp.com/BjcCLJokpdEEc4i0a0mnNR" alt="YouTube">
 </a>
 
 ### `▢يوتيوب2 المطور الرسمي (نشط)`
