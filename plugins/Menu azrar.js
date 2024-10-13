@@ -58,7 +58,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                     sections: [
                                         {
                                             title: 'مــرحـ🛡ـبــا بــك فـي مــ☑هــام فلاش بـ🤖ـوت',
-                                            highlight_label: 'بعبص براحتك في البوت يا برو 🤖',
+                                            highlight_label: '𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊',
                                             rows: [
                                                 {
                                                     header: 'الــقـ👑ـســم الـاول',
